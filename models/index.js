@@ -1,5 +1,3 @@
 module.exports = {
-    Message: require("./message")
-  };
-
-  
+  Book: require("./book")
+};
